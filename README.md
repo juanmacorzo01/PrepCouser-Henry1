@@ -1,2 +1,1 @@
-# PrepCouser-Henry1
-Este es un repositorio de prueba del modulo2 del PrepCouser Henry
+Prueba de repositor de git hub a escritorio
